@@ -2,7 +2,7 @@
 
 Spring Boot - Building RESTful Web Services
 
-GET - POST - PUT - DELETE Http requests/response.
+HTTP GET - POST - PUT - DELETE API
 
 Unit Tests
 
