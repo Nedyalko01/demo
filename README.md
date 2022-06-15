@@ -12,4 +12,4 @@ API Response and Exception Handling-
 Services-
 Repository-
 Entity-
-MySQL database-
+MySQL database
