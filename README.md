@@ -2,7 +2,7 @@
 
 Spring Boot - Building RESTful Web Services
 
-GET - POST - PUT - DELETE Http requests.
+GET - POST - PUT - DELETE Http requests/responds.
 
 Application Structure:
 Controllers
